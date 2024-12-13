@@ -8,18 +8,16 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Zakaria
-    family-names: Narjis
-    email: zakaria.narjis.97@gmail.com
-    orcid: 'https://orcid.org/0009-0007-7033-4419'
+  - given-names: pooja
+    family-names: Ravikumar
+    email: rpooja1698@gmail.com
+    
 identifiers:
   - type: doi
     value: 10.5281/zenodo.12507164
     description: >-
-      https://github.com/zakaria-narjis/Diet-Recommendation-System/releases/tag/v1.0.0
-repository-code: >-
-  https://github.com/zakaria-narjis/Diet-Recommendation-System
-url: 'https://diet-recommendation-system.streamlit.app/'
+    
+url: 'https://github.com/poojaRavikumar/PDR-PYHTON-PROJECT/edit/main/CITATION.cff'
 abstract: >-
   People from all around the world are getting more
   concerned in their health and way of life in today's
